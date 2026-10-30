@@ -1,0 +1,49 @@
+name: DNS Provider Addition or Update Request
+description: Propose adding or updating a public DNS provider in DNSAtlas
+title: "[Provider]: "
+labels: ["provider-update"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for submitting a DNS provider request!
+        Please verify that this is a public DNS service with officially documented endpoints.
+  - type: input
+    id: provider_name
+    attributes:
+      label: Provider Name
+      placeholder: e.g., Quad9
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Official Website
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: input
+    id: jurisdiction
+    attributes:
+      label: Operating Jurisdiction & Country of Origin
+      placeholder: e.g. Switzerland
+    validations:
+      required: true
+  - type: textarea
+    id: endpoints
+    attributes:
+      label: Documented Endpoints (IPv4, IPv6, DoH, DoT)
+      placeholder: |
+        IPv4: 9.9.9.9
+        IPv6: 2620:fe::9
+        DoH: https://dns.quad9.net/dns-query
+        DoT: dns.quad9.net:853
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Official Source Documentation URLs
+      placeholder: Official docs or announcements verifying these endpoints and privacy policies.
+    validations:
+      required: true

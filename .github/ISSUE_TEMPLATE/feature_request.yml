@@ -1,0 +1,23 @@
+name: Feature Request
+description: Suggest an idea or enhancement for DNSAtlas
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please verify that your feature idea adheres to the Core Project Principles (provider neutrality, zero telemetry, open source).
+  - type: textarea
+    id: problem
+    attributes:
+      label: Is your feature request related to a problem?
+      description: A clear description of the challenge or problem you face.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution / Technical Specification
+      description: Describe what you want to happen and how it preserves scientific accuracy.
+    validations:
+      required: true
