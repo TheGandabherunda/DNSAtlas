@@ -39,3 +39,4 @@ All dependencies used in **DNSAtlas** are distributed under OSI-approved permiss
 ## License Compliance Statement
 
 Every direct and transitive production package has been audited to confirm permissive, OSI-approved open-source licensing. Copyleft licenses (GPL, AGPL) and proprietary/paid licenses are strictly excluded from runtime distributions.
+

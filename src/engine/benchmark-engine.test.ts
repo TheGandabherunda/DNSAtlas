@@ -306,3 +306,4 @@ describe('DnsBenchmarkEngine', () => {
     expect(session.notes).toContain('stopped prematurely');
   });
 });
+

@@ -91,3 +91,4 @@ describe('Apple MobileConfig Generator', () => {
     expect(xml).toContain('<string>test-dot.example</string>');
   });
 });
+

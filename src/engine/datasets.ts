@@ -70,3 +70,4 @@ export function getDomainForRound(
 
   return VARIED_QUERY_DOMAINS[roundIndex % VARIED_QUERY_DOMAINS.length];
 }
+

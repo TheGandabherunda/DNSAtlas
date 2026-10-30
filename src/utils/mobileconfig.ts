@@ -131,3 +131,4 @@ export function downloadAppleProfile(provider: DnsProvider, protocol: 'DoH' | 'D
   document.body.removeChild(a);
   URL.revokeObjectURL(url);
 }
+

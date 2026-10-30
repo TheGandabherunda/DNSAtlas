@@ -47,3 +47,4 @@ body:
       placeholder: Official docs or announcements verifying these endpoints and privacy policies.
     validations:
       required: true
+

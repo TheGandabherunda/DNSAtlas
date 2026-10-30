@@ -115,3 +115,4 @@ export function savePreferences(prefs: UserPreferences): void {
     // Ignore error
   }
 }
+

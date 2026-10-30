@@ -51,3 +51,4 @@ an individual is officially representing the community in public spaces.
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
+

@@ -81,3 +81,4 @@ export function validateAndParseImportedSession(jsonString: string): BenchmarkSe
   }
   return parsed as BenchmarkSession;
 }
+

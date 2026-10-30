@@ -72,3 +72,4 @@ npm run build
 - Ensure your commit messages are descriptive and concise.
 - Keep pull requests focused on a single feature, bug fix, or provider addition.
 - All CI checks (linting, typechecking, unit tests, schema validation, build) must pass before merging.
+

@@ -205,3 +205,4 @@ DNSAtlas is strictly client-side. No identifiable network information, IP addres
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+

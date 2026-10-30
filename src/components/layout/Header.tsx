@@ -31,3 +31,4 @@ export const Header: React.FC<HeaderProps> = ({ title, subtitle, badge, actions 
     </div>
   );
 };
+

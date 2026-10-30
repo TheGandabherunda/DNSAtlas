@@ -32,3 +32,4 @@ body:
       placeholder: e.g. Chrome 120 on macOS Sonoma 14.2
     validations:
       required: true
+

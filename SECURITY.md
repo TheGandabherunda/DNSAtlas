@@ -24,3 +24,4 @@ We will acknowledge receipt within 48 hours and coordinate a public release with
 * **HTTPS only:** Custom DoH endpoints must use secure `https://` schemes.
 * **No code evaluation:** No `eval()`, `dangerouslySetInnerHTML`, or remote script execution.
 * **Zero tracking:** No tracking cookies, analytics tokens, or third-party advertising dependencies.
+

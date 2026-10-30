@@ -199,3 +199,4 @@ export const ResultsTable: React.FC<ResultsTableProps> = ({ summaries, onSelectS
     </div>
   );
 };
+

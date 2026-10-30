@@ -41,3 +41,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Strict TypeScript configuration.
   - ESLint 9 configuration with zero errors or warnings.
   - GitHub Actions CI/CD pipeline building and deploying to GitHub Pages.
+

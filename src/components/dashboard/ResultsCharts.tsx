@@ -220,3 +220,4 @@ export const ResultsCharts: React.FC<ResultsChartsProps> = ({ summaries }) => {
     </div>
   );
 };
+

@@ -93,3 +93,4 @@ export const BenchmarkExecution: React.FC<BenchmarkExecutionProps> = ({ progress
     </div>
   );
 };
+

@@ -56,3 +56,4 @@ if (import.meta.url.endsWith(process.argv[1]) || process.argv[1]?.includes('vali
     process.exit(1);
   }
 }
+
