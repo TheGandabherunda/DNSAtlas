@@ -29,16 +29,7 @@ export default defineConfig({
     },
   },
   build: {
-    chunkSizeWarningLimit: 650,
-    rollupOptions: {
-      output: {
-        manualChunks: {
-          'vendor-react': ['react', 'react-dom'],
-          'vendor-recharts': ['recharts'],
-          'vendor-icons': ['lucide-react'],
-        },
-      },
-    },
+    chunkSizeWarningLimit: 1000,
   },
   test: {
     globals: true,
